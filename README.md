@@ -1,3 +1,8 @@
+# CLONE REPO
+```bash
+git clone https://github.com/shehab097/C-theory.git
+```
+
 ## C Programming Practice: If-Else Statements
 
 This repository contains a collection of C programming practice problems designed to help you understand and master the use of `if-else` statements.
