@@ -1,0 +1,24 @@
+For more and more practices:
+
+1. Write a C program to find maximum between two numbers.
+2. Write a C program to check whether a number is negative, positive or zero.
+3. Write a C program to input any alphabet and check whether it is vowel or consonant.
+4. Write a program that read three numbers and display minimum.
+5. Write a program that read three numbers and display medium.
+6. Write a program that read mark and display result in division.
+7. Write a program that read mark and display result in grade.
+8. Write a program that read any year and display leap year or not leap year.
+9. Write a program that read three numbers (a,b,c) and determine the root of the quadratic equation: ax2+bx+c=0
+10. Write a program that read three numbers and display maximum.
+11. Write a program that read mark and display pass or fail.
+12. Write a C program to read weekday number and print weekday name using switch-case.
+13. Write a C program to check whether a character is VOWEL or CONSONANT using switch-case.
+14. Write a C program to design a calculator with basic operations using switch-case.
+15. Write a C program to check whether number is EVEN or ODD using switch-case.
+16. Write a C program to find number of days in a month using switch-case.
+17. Write a program to check a number whether positive or negative.
+18. Write a program to check a number whether even or odd.
+19. Write a program to check a number is divisible by both 11 and 9 or not.
+20.Write a program to check whether a character is alphabet number or any other symbol.
+21. Write a program to check whether a triangle is equilateral, bilateral or isosceles
+22.Write a program to check whether a triangle is valid or not. (a+b>c)
